@@ -1,1 +1,1 @@
-# mecanica_2022-2
+# Mecánica Analítica
